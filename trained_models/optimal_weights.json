@@ -1,0 +1,30 @@
+{
+  "weights": {
+    "title": {
+      "tag_score": 0.3,
+      "position_score": 0.05,
+      "length_score": 0.29999999999999993,
+      "link_score": 0.19999999999999998,
+      "semantic_score": 0.15
+    },
+    "kicker": {
+      "tag_score": 0.24,
+      "position_score": 0.05,
+      "length_score": 0.29999999999999993,
+      "style_score": 0.15,
+      "proximity_score": 0.19999999999999998
+    },
+    "image": {
+      "tag_score": 0.4,
+      "position_score": 0.2,
+      "size_score": 0.2,
+      "alt_score": 0.2
+    },
+    "link": {
+      "href_score": 0.4,
+      "position_score": 0.2,
+      "wraps_content": 0.4
+    }
+  },
+  "score": 0.75
+}
